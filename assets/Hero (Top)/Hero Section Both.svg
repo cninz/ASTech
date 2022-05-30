@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1087.123" height="880.395" viewBox="0 0 1087.123 880.395">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#373995" stop-opacity="0.749"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#373995" stop-opacity="0.502"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Hero_Section_Both" data-name="Hero Section Both" transform="translate(-12720.749 -2793.416)">
+    <rect id="Rectangle_135" data-name="Rectangle 135" width="157.757" height="604.867" transform="translate(13052.615 3238.385) rotate(-45)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_136" data-name="Rectangle 136" width="157.757" height="604.867" transform="translate(12828.615 3238.385) rotate(-45)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_137" data-name="Rectangle 137" width="157.757" height="277.943" transform="translate(12843.506 3477.276) rotate(-45)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_138" data-name="Rectangle 138" width="157.757" height="440.867" transform="translate(13384.581 3348.35) rotate(-45)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_139" data-name="Rectangle 139" width="157.757" height="467.867" transform="translate(13051.749 3015.518) rotate(-45)" fill="url(#linear-gradient-5)"/>
+    <rect id="Rectangle_140" data-name="Rectangle 140" width="157.757" height="467.867" transform="translate(12720.749 2904.967) rotate(-45)" fill="url(#linear-gradient-5)"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="871.124" height="872.675" viewBox="0 0 871.124 872.675">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#373995" stop-opacity="0.749"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#373995" stop-opacity="0.502"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Nomination_Section_Right" data-name="Nomination Section Right" transform="translate(-14224.127 -1866.728)">
+    <rect id="Rectangle_154" data-name="Rectangle 154" width="157.757" height="604.867" transform="translate(14335.679 2739.403) rotate(-135)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_155" data-name="Rectangle 155" width="157.757" height="604.867" transform="translate(14559.679 2739.403) rotate(-135)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_156" data-name="Rectangle 156" width="157.757" height="467.867" transform="translate(14433.419 2419.663) rotate(-135)" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectangle_157" data-name="Rectangle 157" width="157.757" height="467.867" transform="translate(14764.419 2309.112) rotate(-135)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2067.031" height="398.712" viewBox="0 0 2067.031 398.712">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#373995" stop-opacity="0.749"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Community_Partners_Background" data-name="Community Partners Background" transform="translate(-11855 -8985)">
+    <rect id="Rectangle_148" data-name="Rectangle 148" width="131.219" height="1196.403" transform="translate(12304.58 9116.219) rotate(-90)" opacity="0.25" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_149" data-name="Rectangle 149" width="131.219" height="2067.031" transform="translate(11855 9249.965) rotate(-90)" opacity="0.25" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_150" data-name="Rectangle 150" width="131.219" height="1274" transform="translate(12000.872 9383.712) rotate(-90)" opacity="0.25" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

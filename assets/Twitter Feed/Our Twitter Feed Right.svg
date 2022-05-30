@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="829.316" height="264.965" viewBox="0 0 829.316 264.965">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#373995" stop-opacity="0.749"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Our_Twitter_Feed_Right" data-name="Our Twitter Feed Right" transform="translate(-12329.667 -9592.018)">
+    <rect id="Rectangle_151" data-name="Rectangle 151" width="131.219" height="520.403" transform="translate(12638.58 9723.236) rotate(-90)" opacity="0.15" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_152" data-name="Rectangle 152" width="131.219" height="750.365" transform="translate(12329.667 9856.982) rotate(-90)" opacity="0.15" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
