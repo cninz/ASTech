@@ -10,7 +10,7 @@
       <stop offset="1" stop-color="#fff" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <g id="Nomination_Section_Left" data-name="Nomination Section Left" transform="translate(0 -692.089)" opacity="0.25">
+  <g id="Nomination_section_Left" data-name="Nomination section Left" transform="translate(0 -692.089)" opacity="0.25">
     <path id="Path_14" data-name="Path 14" d="M3.219,1.173,173.392,0l-3.219,466.934L0,468.107Z" transform="translate(331.002 1460.12) rotate(45)" fill="url(#linear-gradient)"/>
     <path id="Path_15" data-name="Path 15" d="M3.1,1.173,173.273,0l-3.1,449.675L0,450.848Z" transform="translate(851.868 1434.249) rotate(-135)" fill="url(#linear-gradient-2)"/>
     <path id="Path_16" data-name="Path 16" d="M8.886,1.173,179.058,0l-8.886,1288.968L0,1290.142Z" transform="translate(604.817 1926.006) rotate(-135)" fill="url(#linear-gradient)"/>

@@ -9,7 +9,7 @@
       <stop offset="1" stop-color="#fff" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <g id="Hero_Section_Both" data-name="Hero Section Both" transform="translate(-12720.749 -2793.416)">
+  <g id="Hero_section_Both" data-name="Hero section Both" transform="translate(-12720.749 -2793.416)">
     <rect id="Rectangle_135" data-name="Rectangle 135" width="157.757" height="604.867" transform="translate(13052.615 3238.385) rotate(-45)" fill="url(#linear-gradient)"/>
     <rect id="Rectangle_136" data-name="Rectangle 136" width="157.757" height="604.867" transform="translate(12828.615 3238.385) rotate(-45)" fill="url(#linear-gradient)"/>
     <rect id="Rectangle_137" data-name="Rectangle 137" width="157.757" height="277.943" transform="translate(12843.506 3477.276) rotate(-45)" fill="url(#linear-gradient)"/>

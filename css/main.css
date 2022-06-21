@@ -41,6 +41,10 @@ html {
  * A better looking default horizontal rule
  */
 
+ h2{
+  color: red;
+ }
+
 hr {
   display: block;
   height: 1px;
